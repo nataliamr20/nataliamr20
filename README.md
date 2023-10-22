@@ -43,9 +43,12 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Nat">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=4&unique=true" alt="Spotify recently played"  />
-  </a>
+  <p align="left"><a href = "https://music.youtube.com/watch?v=_DXgya9AlEM&si=RAhfCIMl4RB9oEz6"><img src = "https://i.pinimg.com/564x/7b/80/a2/7b80a24982cf59732dba096ad86c03cb.jpg" width = 170 align = "center"/></a><b> Quevedo - Buenas </b></p>
+
+  <p align="right"><a href = "https://music.youtube.com/watch?v=hP4mx6fyUEQ&si=ZE3ZeP__WzkUhWjv"><img src = "https://i.pinimg.com/564x/74/96/6e/74966e570d226cb005efb626d1eb670c.jpg" width = 170 align = "center"/></a><b> Gracie Abrams - Right now</b></p>
+<br>
 </div>
+<br>
+
 
 ###
